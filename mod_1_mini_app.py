@@ -1,4 +1,4 @@
-#Create a dictionary (This is to define to variables for our code)
+
 def main():
       
     users = {"Cailli": "admin",
